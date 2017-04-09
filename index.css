@@ -1,0 +1,22 @@
+    body {
+  font-family: monospace;
+  font-size: 14px;
+  padding: 50px;
+  background: #233390;
+	color: #56c12c;
+}
+
+	h1 {
+    color: #e04700;
+	font-size: 40px;
+}
+    b {
+        color: #e04700;
+    }
+
+	div {
+  background: #062538;
+  margin: 0 auto;
+  width: 760px;
+  padding:20px;
+}
