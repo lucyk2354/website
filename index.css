@@ -1,0 +1,23 @@
+    body {
+  font-family: monospace;
+  font-size: 14px;
+  padding: 50px;
+  background: #CCD4FF;
+	color: #56c12c;
+}
+
+	h1 {
+    font-family: 'Macondo', cursive;
+    color: #CCD4FF;
+	font-size: 40px;
+}
+    a {
+        color: #ffffff;
+    }
+
+	div {
+  background: #062538;
+  margin: 0 auto;
+  width: 760px;
+  padding:20px;
+}
