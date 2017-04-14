@@ -4,13 +4,12 @@
 	    padding: 50px;
 	    background: #CCD4FF;
 	    color: #c796ff;
-	    padding-top: 0;
 }
 h3, h4, h5, h6 {
 	color: #fab7ff;
 	font-family: 'Oswald';
-	margin-bottom: 0;
-	padding-bottom: 0;
+	margin: 0;
+	padding: 0;
 }
 
 	h1 {
