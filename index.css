@@ -1,3 +1,38 @@
+body {
+	padding: 50px;
+	background: #CCD4FF;
+	color: #f3e2ff;
+}
+
+h1 {
+    font-family: 'Macondo Swash Caps';
+    color: #96E5FF;
+    font-size: 40px;
+}
+
+h2 {	
+    font-family: 'Macondo Swash Caps';
+    color: #96E5FF;
+    font-size: 30px;
+}
+
+h3 {
+	font-size: 26px;
+	font-family: 'Oswald';
+	margin-bottom: 0;
+	color: #fab7ff;
+}
+
+div {
+	background: #062538;
+	margin: 0 auto;
+	width: 760px;
+	padding: 20px;
+}
+
+img{
+	margin-bottom: 50;
+}
 
 a {
 	color: #ffe81c;
