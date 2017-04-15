@@ -1,0 +1,48 @@
+body {
+	font-family: 'Lato';
+	font-size: 22px;
+	padding: 50px;
+	background: #CCD4FF;
+	color: #f3e2ff;
+}
+
+p {
+	margin-top: 0;
+}
+
+h3, h4, h5, h6 {
+	color: #fab7ff;
+	font-family: 'Oswald';
+}
+
+h1 {
+    font-family: 'Macondo Swash Caps';
+    color: #96E5FF;
+    font-size: 40px;
+}
+
+h2 {	
+    font-family: 'Macondo Swash Caps';
+    color: #96E5FF;
+    font-size: 30px;
+}
+
+h3 {
+	font-size: 26px;
+	margin-bottom: 0;
+}
+
+a {
+	color: #96E5FF;
+}
+
+div {
+	background: #062538;
+	margin: 0 auto;
+	width: 760px;
+	padding: 20px;
+}
+
+img{
+	margin-bottom: 50;
+}
