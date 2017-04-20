@@ -23,6 +23,12 @@ h3 {
 	color: #fab7ff;
 }
 
+h4 {	
+    font-family: 'Macondo Swash Caps';
+    color: #f3e2ff;
+    font-size: 30px;
+}
+
 div {
 	background: #062538;
 	margin: 0 auto;
