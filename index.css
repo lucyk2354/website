@@ -1,0 +1,48 @@
+body {
+	padding: 50px;
+	background: #8675dd;
+	color: #f3e2ff;
+}
+
+h1 {
+    font-family: 'Architects Daughter';
+    color: #9b0988;
+    font-size: 40px;
+}
+
+h2 {	
+    font-family: 'Architects Daughter', cursive;
+    color: #0c56b7;
+    font-size: 30px;
+	margin-bottom: 0;
+	margin-top: 40;
+}
+
+p {
+	font-size: 26px;
+	font-family: 'Lato';
+	margin-bottom: 0;
+	color: #0c56b7;
+}
+
+h3 {	
+    font-family: 'Marck Script', cursive;
+    color: #9b0988;
+    font-size: 40px;
+}
+
+div {
+	background: #f6efff;
+	margin: 0 auto;
+	width: 760px;
+	padding: 20px;
+}
+
+img{
+	margin-bottom: 50;
+}
+
+a {
+	color: #d80fbd;
+	margin-top: 0;
+}
