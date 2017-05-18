@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-family: 'Macondo Swash Caps';
+    font-family: 'Architects Daughter', cursive;
     color: #FFE81C;
     font-size: 40px;
 }
@@ -16,15 +16,15 @@ h2 {
     font-size: 30px;
 }
 
-h3 {
+p {
 	font-size: 26px;
 	font-family: 'Lato';
 	margin-bottom: 0;
 	color: #fab7ff;
 }
 
-h4 {	
-    font-family: 'Macondo Swash Caps';
+h3 {	
+    font-family: 'Marck Script', cursive;
     color: #FFE81C;
     font-size: 30px;
 }
