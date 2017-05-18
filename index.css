@@ -14,6 +14,7 @@ h2 {
     font-family: 'Architects Daughter', cursive;
     color: #96E5FF;
     font-size: 30px;
+	margin-bottom: 5;
 }
 
 p {
@@ -42,4 +43,5 @@ img{
 
 a {
 	color: #ffe81c;
+	margin-top: 0;
 }
