@@ -1,0 +1,45 @@
+body {
+	font-family: 'Bellefair', serif;
+	font-size: 22px;
+	padding: 50px;
+	background: #8675bd;
+	color: #0c56b7;
+}
+
+p {
+	margin-top: 0;
+}
+
+h3, h4, h5, h6 {
+	color: #d80fbd;
+	font-family: 'Oswald';
+	font-size: 26px;
+	margin-bottom: 0;
+}
+
+h1 {
+    font-family: 'Architects Daughter';
+    color: #9b0988;
+    font-size: 40px;
+}
+
+h2 {	
+    font-family: 'Architects Daughter';
+    color: #9b0988;
+    font-size: 30px;
+}
+
+a {
+	color: #96E5FF;
+}
+
+div {
+	background: #f6efff;
+	margin: 0 auto;
+	width: 760px;
+	padding: 20px;
+}
+
+img{
+	margin-bottom: 50;
+}
